@@ -1,0 +1,13 @@
+package com.jsf_mini_project.event_management_system;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class EventManagementSystemApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

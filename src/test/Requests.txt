@@ -1,0 +1,15 @@
+{
+  "name":"event 1",
+  "description":"This is an event",
+  "status":"STATUS1",
+  "startTime":"",
+  "duration":1,
+  "venueId":""
+}
+
+{
+  "name":"Venue",
+  "description":"This is a venue",
+  "address":"123, Block 1, ABC apartments",
+  "capacity":10
+}
